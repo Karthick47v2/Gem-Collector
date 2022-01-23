@@ -290,19 +290,19 @@
         <HintPath>D:/Program Files/Unity/Editor/2021.1.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="YamlDotNet">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/YamlDotNet/YamlDotNet.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/YamlDotNet/YamlDotNet.dll</HintPath>
     </Reference>
     <Reference Include="IonicZip">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/DotNetZip/IonicZip.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/DotNetZip/IonicZip.dll</HintPath>
     </Reference>
     <Reference Include="MiscUtil">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/MiscUtil/MiscUtil.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/MiscUtil/MiscUtil.dll</HintPath>
     </Reference>
     <Reference Include="Antlr3.Runtime">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Antlr3.Runtime.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
         <HintPath>D:/Program Files/Unity/Editor/2021.1.5f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -656,16 +656,16 @@
         <HintPath>D:/Program Files/Unity/Editor/2021.1.5f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XPath.XDocument.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

@@ -306,10 +306,10 @@
         <HintPath>D:/Program Files/Unity/Editor/2021.1.5f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
     <Reference Include="MiscUtil">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/MiscUtil/MiscUtil.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/MiscUtil/MiscUtil.dll</HintPath>
     </Reference>
     <Reference Include="Antlr3.Runtime">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Antlr3.Runtime.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
         <HintPath>D:/Program Files/Unity/Editor/2021.1.5f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -663,52 +663,52 @@
         <HintPath>D:/Program Files/Unity/Editor/2021.1.5f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core.Editor">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
     </Reference>
     <Reference Include="VSSettingsProvider">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/ScriptAssemblies/VSSettingsProvider.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/ScriptAssemblies/VSSettingsProvider.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core">
-        <HintPath>D:/Unity_PRJ/Gem-Collector/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
+        <HintPath>D:/GitHub/Gem-Collector/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
